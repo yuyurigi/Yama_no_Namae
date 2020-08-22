@@ -1,5 +1,5 @@
 # Yama_no_Namae
-<img src = "https://github.com/yuyurigi/Yama_no_Namae/blob/master/200526_03.gif">
+![](https://github.com/yuyurigi/Yama_no_Namae/blob/master/200526_03.gif)
 
 font:殴り書きクレヨン ( http://font.sumomo.ne.jp/font_2.html )
 
